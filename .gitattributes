@@ -1,1 +1,6 @@
 *.ai filter=lfs diff=lfs merge=lfs -text
+Track[[:space:]]Maps.ai filter=lfs diff=lfs merge=lfs -text
+Track_Maps_DiNmiTe.ai filter=lfs diff=lfs merge=lfs -text
+Track_Maps_JensVL.ai filter=lfs diff=lfs merge=lfs -text
+Track_Maps_Kruck.ai filter=lfs diff=lfs merge=lfs -text
+Track_Maps_lodus.ai filter=lfs diff=lfs merge=lfs -text
